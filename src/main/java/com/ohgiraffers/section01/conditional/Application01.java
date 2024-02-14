@@ -1,6 +1,4 @@
-package com.ohgiraffers.section1.conditional;
-
-import com.ohgiraffers.section1.conditional.A_if;
+package com.ohgiraffers.section01.conditional;
 
 public class Application01 {
 

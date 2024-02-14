@@ -1,4 +1,4 @@
-package com.ohgiraffers.section1.conditional;
+package com.ohgiraffers.section01.conditional;
 
 public class Practice01 {
 
